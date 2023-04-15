@@ -6,6 +6,11 @@ NLP Assignments (*Tasks*)
 1. Simple Text Classification and Task-Tweet Tokenizer
 1. Stemming of Data
 1. Vectorizing
+1. Task 6
+    
+    1. Named Entity Recognition
+    1. Sentiment Analysis
+    1. Chunking
 
 
 

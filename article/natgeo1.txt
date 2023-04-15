@@ -1,0 +1,85 @@
+Gregg Treinish is a 2013 Emerging Explorer. Gregg “believes firmly that it is the responsibility of those who recreate in natural areas to protect those same areas”—from the tall peaks of the Andes Mountains to the weathered landscape of the Appalachians.
+
+Gregg is an outdoor enthusiast as well as a scientist. In fact, Gregg was one of National Geographic’s “Adventurers of the Year” in 2008, recognized for “trekking the forgotten Andes.” He and fellow outdoor educator Deia Schlosberg navigated the longest mountain chain in the world (12,553 kilometers, or 7,800 miles) using llama tracks, old Inca roads, and forgotten trade paths.
+
+Prior to trekking the Andes, Gregg hiked the entire Appalachian Trail, from Georgia to Maine, a distance of nearly 3,500 kilometers (2,174 miles).
+
+Gregg’s most recent expedition took him to Mongolia, where he is documenting wildlife ecology in the legendary “Ring of Darhad” region. Although focusing primarily on the wolverine population, Gregg and his team skied about 644 kilometers (400 miles) in search of signs of elk, ibex, marmots, and brown bears.
+
+Early Work
+
+Although he was always interested in outdoor adventure, Gregg’s earliest ambitions weren’t focused on wildlife in the mountains.
+
+“When I was seven years old, I remember telling my family I wanted to be a marine biologist,” Gregg remembers. “Jacques Cousteau was a hero for sure.” Gregg’s interest in outdoor adventure “came totally out of left field. My family never went camping, never had a ton of outdoor experiences. I just remained interested in nature and the natural world and continued down that path.”
+
+In fact, Gregg tried to put himself as far out in left field as often as he could.
+
+“I remember sitting in my backyard, and taking these journeys through the woods. Now when I go back, I laugh, because I can see the house behind me! But, I used to think this was an endless forest, and go play in the woods and try to get lost in there.”
+
+Gregg also maintained an interest in physical fitness.
+
+“I played football, I wrestled . . . I think taking care of your body is important, in addition to your mind, and sports certainly helps with that. It teaches you a lot of great skills that are important, like being a team member.”
+
+When Gregg was a little older, he had the opportunity to gain skills at a summer camp at MacMurray College in Jacksonville, Illinois. 
+
+“I got to do everything from robotics to programming computers . . . It was totally ‘Nerd Camp’!”
+
+Most Exciting Part of Your Work
+
+“It’s all awesome! My personal adventures, like getting to go to Mongolia.
+
+“Even getting to sit around a table with my staff and saying ‘where do you guys want to work?’, and knowing we can make that happen just about anywhere.”
+
+Most Demanding Part of Your Work
+
+“Funding. It’s a constant battle.”
+
+How Do You Define Geography? 
+
+“Being a wanderer. 
+
+“What I love about moving around these huge, large landscapes is you get to see the geography on a massive scale, and how it all fits together. So, I know that I can look south and walk from here to South America, and I know that those same people, same trails . . . are still there. And so it’s just this idea of it all being a network, connected—by trail and road, but also just by ecosystems.
+
+“For me, it’s the study of how things change over distance and space.”
+
+Geo-Connection 
+
+Can you walk us through how you and other participants in Adventure Scientists use geographic tools?
+
+“First of all, I love maps! You can look at a map, and not only see a journey in it, but . . . it all tells a story. It’s all there for a reason. The mountains are formed in a very specific way, because of very specific forces that have happened there . . . Even where people build their homes, why we build them there, where we build cities as a society, where we connect roads. It all is a story, all a puzzle that is part of nature, which is why I explore . . . I love understanding that puzzle.”
+
+How do you use maps or other geographic tools on expeditions?
+
+“In every case, each of our explorers is responsible for their own safety out there. So, maps are always a first part of that. I don’t know of any expeditions that have happened without looking at paper maps . . . often National Geographic maps are the best!
+
+“GPS is part of almost every one of our expeditions. We’re looking for specific points, we’re . . . asking people to collect data from specific locations . . . Without a degree-minute-second decimal point, it’s useless. We need to know specifically where those things are coming from. So, GPS gives us these amazing tools.
+
+“GIS is absolutely used as well. It’s how we correlate our data, how we visualize our data. [We can put] basic GIS layers on Google Earth and look at it there, make it really consumable for the public. Or we can go all the way up through more scientific and rigorous ArcGIS and ArcMap and have scientific information.”
+
+Can you give us an example of GIS data layers Adventure Scientists has used?
+
+“Sure! We do pika locations. We ask Pacific Crest Trail hikers to look for the smallest member of the rabbit family, the pika—an indicator species for climate change. So, we go over a huge landscape to understand how pika are changing their habits due to changing climate. We take GPS locations of where we’re seeing them, where we’re hearing them, where we’re finding their hay piles and scats. We put those observations into a GIS format . . . we overlay their habitat with the vegetation, with scree fields, and see how they are using the environment in those areas, and how those areas are changing over time, and . . . what it takes to survive in an extreme environment.”
+
+Tell us about Adventure Scientists. 
+
+“We are an organization that sends people out to the far corners of the globe to collect scientific data. This is everybody from the world’s greatest mountaineers, greatest divers and climbers to kids!”
+
+What are some of the most exciting expeditions in which Adevnture Scientists has taken part? 
+
+“I had six-year-olds go up and sample for diatoms in high mountain lakes. We’ve got four new species [of diatoms] named after our adventurers. We send people to look for ice worms up on remote glaciers, we’ve got people exploring canyons in Hawaii. Eric Leifer . . . he’s a Young Explorer, is canyoneering in Hawaii. He’s doing first-descents, but also collecting diatoms and looking for new species for us.
+
+“We’ve got people in Sri Lanka, looking at water quality. We’ve got people up in Siberia, looking at snow samples looking at global deposition of pollutants.”
+
+How do you connect adventurers with scientists?
+
+“They find us! At this point, we haven’t done any real outreach or advertising. We have our hands full with what we’ve got.”
+
+You said you were “lost the entire time” in the Andes. How did you get back on track?
+
+“You’re never really lost if you don’t have anywhere to be!
+
+“There’s a clear translation there to life, too, and what I do. I’m kind of always lost, I really have no idea what I’m doing, I just keep going in a solid direction, and I get there.”
+
+So, You Want To Be an . . . Outdoor Adventurer
+
+“Go out in your backyard! Catch fireflies, go dig for worms, explore.”
